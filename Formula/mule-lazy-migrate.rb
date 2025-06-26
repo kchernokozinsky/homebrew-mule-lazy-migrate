@@ -1,8 +1,8 @@
 class MuleLazyMigrate < Formula
   desc "Mule 4 migration tool"
   homepage "https://github.com/kchernokozinsky/mule-lazy-migrate"
-  url "https://github.com/kchernokozinsky/mule-lazy-migrate/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "294483f4886171a6c65a7f55a8b2043e6b85dc98d783e39956c88d2d4a5ad0c2"
+  url "https://github.com/kchernokozinsky/mule-lazy-migrate/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "cf0ac94c8a97eb30255ccb54f80f23ae25d0b24fcf6d283c0b03e0399b0f481d"
   license "MIT"
 
   depends_on "rust" => :build
